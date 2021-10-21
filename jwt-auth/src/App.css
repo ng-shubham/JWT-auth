@@ -1,0 +1,23 @@
+.navbar-nav a {
+  color: rgba(255, 255, 255, 0.55);
+}
+.navbar-nav a {
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.home-link {
+  color: #06357a;
+  font-weight: 700;
+}
+
+.home-link:hover {
+  color: #06357a;
+}
+
+.login-img {
+  height: 257px;
+  width: 398px;
+}
